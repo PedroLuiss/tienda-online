@@ -1,5 +1,5 @@
 <?php
-const BASE_URL = "http://localhost/tienda-online/"; // URL del proyecto
+const BASE_URL = "https://webtiendapedro.netlify.app/"; // URL del proyecto
 
 const HOST = "localhost";
 const USER = "root";
